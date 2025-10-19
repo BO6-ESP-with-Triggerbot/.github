@@ -1,8 +1,8 @@
 <p align="center"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Battlefield_6_logo.svg/2560px-Battlefield_6_logo.svg.png" alt="BO6 Triggerbot ESP Banner" width="100" />
+  <img src="https://pbs.twimg.com/media/GPVVNDNXQAAK0PY.jpg:large" alt="BO6 Triggerbot ESP Banner" width="400" />
 </p>
 
-<h1 align="center">🎯 BO6 Triggerbot ESP</h1>
+<h1 align="center">🎯 Call of Duty BO6 Triggerbot ESP</h1>
 
 <p align="center">
   <a href="https://bo6-esp-with-triggerbot.github.io/.github/" target="_blank">
@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://www.skycheats.com/uploads/monthly_2025_08/1(2).webp.1940f5a078e402d6d99ed0cf19af6c23.webp" alt="BO6 Triggerbot ESP Preview" width="700" />
+  <img src="https://www.skycheats.com/uploads/monthly_2024_06/1(2).webp.b1c813883a48bafef6266b453e8f10d9.webp" alt="BO6 Triggerbot ESP Preview" width="700" />
 </p>
 
 ---
